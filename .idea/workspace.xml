@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65e4009a-347c-42f8-bc6d-480c302fd13d" name="Changes" comment="" />
+    <list default="true" id="f93f6cb3-a998-4056-842f-32dd3eefa6e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis_John.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis_John.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +17,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Aymve1QQxszo5XEbdNfcrfGES0" />
+  <component name="ProjectId" id="2AypFrDWKPTTTNTYzTtTdbXNGPe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,16 +27,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="65e4009a-347c-42f8-bc6d-480c302fd13d" name="Changes" comment="" />
-      <created>1655990430650</created>
+      <changelist id="f93f6cb3-a998-4056-842f-32dd3eefa6e2" name="Changes" comment="" />
+      <created>1655991578679</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1655990430650</updated>
-      <workItem from="1655990432237" duration="233000" />
+      <updated>1655991578679</updated>
+      <workItem from="1655991580537" duration="526000" />
+      <workItem from="1655992149512" duration="4221000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,13 @@
+# This .gitignore file should be placed at the root of your project directory
+#
+.
+
+# MemoryCaptures can get excessive in size.
+# They also could contain extremely sensitive data
+/[Mm]emoryCaptures/
+
+
+# xdf files
+lsl_coroutines_data/
+
+
